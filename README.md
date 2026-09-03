@@ -123,17 +123,6 @@ smart-sms-spam-detection/
 
 ---
 
-## 👥 Contributors
-
-- **Tanishka Dhaka** (230504)
-- **Pooja Dhingiya** (230491)
-- **Ruhi Hooda** (230879)
-
-**Supervised by:** Dr. Sandeep Kumar
-**Institution:** School of Engineering and Technology, BML Munjal University
-
----
-
 ## 📄 License
 
 This project was developed as part of a Bachelor of Technology final-year project. Feel free to fork and build upon it for educational purposes.
